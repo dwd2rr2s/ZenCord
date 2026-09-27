@@ -1,0 +1,20 @@
+{
+  "version": "1.15.1",
+  "hash": "15a1001",
+  "updatedAt": 1790526600000,
+  "date": "2026-09-27T17:30:00.000Z",
+  "channel": "stable",
+  "updaterEnabled": true,
+  "repository": "https://github.com/dwd2rr2s/ZenCord",
+  "support": "https://discord.gg/fYxFZdzz5d",
+  "assets": [
+    {"name":"patcher.js","url":"https://raw.githubusercontent.com/dwd2rr2s/ZenCord/main/dist/patcher.js?v=15a1001"},
+    {"name":"preload.js","url":"https://raw.githubusercontent.com/dwd2rr2s/ZenCord/main/dist/preload.js?v=15a1001"},
+    {"name":"renderer.js","url":"https://raw.githubusercontent.com/dwd2rr2s/ZenCord/main/dist/renderer.js?v=15a1001"},
+    {"name":"renderer.css","url":"https://raw.githubusercontent.com/dwd2rr2s/ZenCord/main/dist/renderer.css?v=15a1001"},
+    {"name":"zencordDesktopMain.js","url":"https://raw.githubusercontent.com/dwd2rr2s/ZenCord/main/dist/zencordDesktopMain.js?v=15a1001"},
+    {"name":"zencordDesktopPreload.js","url":"https://raw.githubusercontent.com/dwd2rr2s/ZenCord/main/dist/zencordDesktopPreload.js?v=15a1001"},
+    {"name":"zencordDesktopRenderer.js","url":"https://raw.githubusercontent.com/dwd2rr2s/ZenCord/main/dist/zencordDesktopRenderer.js?v=15a1001"},
+    {"name":"zencordDesktopRenderer.css","url":"https://raw.githubusercontent.com/dwd2rr2s/ZenCord/main/dist/zencordDesktopRenderer.css?v=15a1001"}
+  ]
+}
